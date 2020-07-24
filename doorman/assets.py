@@ -19,7 +19,7 @@ js = Bundle(
     'libs/jQuery/dist/jquery.js',
     'libs/bootstrap/dist/js/bootstrap.js',
     'libs/bootstrap-tagsinput/dist/bootstrap-tagsinput.js',
-    'libs/jquery-extendext/jQuery.extendext.js',
+    'libs/jquery-extendext/jquery-extendext.js',
     'libs/jQuery-QueryBuilder/dist/js/query-builder.standalone.js',
     'libs/interact/dist/interact.js',
     'js/plugins.js',
